@@ -32,6 +32,8 @@ A Simple App with React Hooks.
 
 - useRef
 
+- useContext to authorization
+
 ## Photos
 
 ---
