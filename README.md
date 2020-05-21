@@ -18,7 +18,7 @@ A Simple App with React Hooks.
 
 2. **_React Hooks_**
 
-### What I Use
+## What I Use
 
 - useState
 
@@ -32,7 +32,13 @@ A Simple App with React Hooks.
 
 - useRef
 
-- useContext to authorization
+- useContext
+
+## Additionally
+
+- useContext used to make authorization
+
+- custom hook
 
 ## Photos
 
